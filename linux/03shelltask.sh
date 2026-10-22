@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Date: 14-10-2026
+# Date: 22-10-2026
 # Author: Shivaramakrishna O
 # Description: Shell script to Arithmetic operators
 #
